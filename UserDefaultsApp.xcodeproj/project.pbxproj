@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A39D298225CC48AE0057AB46 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39D298125CC48AE0057AB46 /* StorageManager.swift */; };
 		A3DF944925CC47FA0071D74F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DF944825CC47FA0071D74F /* AppDelegate.swift */; };
 		A3DF944B25CC47FA0071D74F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DF944A25CC47FA0071D74F /* SceneDelegate.swift */; };
 		A3DF944D25CC47FA0071D74F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DF944C25CC47FA0071D74F /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A39D298125CC48AE0057AB46 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		A3DF944525CC47FA0071D74F /* UserDefaultsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UserDefaultsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3DF944825CC47FA0071D74F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3DF944A25CC47FA0071D74F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A3DF944825CC47FA0071D74F /* AppDelegate.swift */,
+				A39D298125CC48AE0057AB46 /* StorageManager.swift */,
 				A3DF944A25CC47FA0071D74F /* SceneDelegate.swift */,
 				A3DF944C25CC47FA0071D74F /* ViewController.swift */,
 				A3DF944E25CC47FA0071D74F /* Main.storyboard */,
@@ -140,6 +143,7 @@
 				A3DF944D25CC47FA0071D74F /* ViewController.swift in Sources */,
 				A3DF944925CC47FA0071D74F /* AppDelegate.swift in Sources */,
 				A3DF944B25CC47FA0071D74F /* SceneDelegate.swift in Sources */,
+				A39D298225CC48AE0057AB46 /* StorageManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
